@@ -1,0 +1,6 @@
+In this project I analyzed each data type of every coloumn and realized that the happiness score is the sum of the rest
+factors. I showed a correlation map which shows us a statistical measurement of the relationship between all of our dataset.
+A +1 correlation means a perfect positive correlation (meaning a 10 happiness score where in reality the best score is around
+7,6). Then I showed that economy is a priority factor to happiness because most of the top happiest countries are also in the
+top of economy. Also I created a hysterezis for economy showing that there are a few very poor (economy range 0.00-0.50)
+countries and few very rich (values from 1.5 to 1.75) while the majority are between 0.50 - 1.50.
